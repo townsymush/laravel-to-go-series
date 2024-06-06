@@ -15,3 +15,7 @@ We recommend that you open each article from it's main folder as the project roo
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/geekculture/laravel-to-go-part-2-routing-and-handlers-1303d8f529a5)
 
 ### Part 3 - Middleware
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/geekculture/larvel-to-go-part-3-middleware-and-requst-validation-610e57b6e85f)
+
+### Part 4 - Request Validation
+- Coming Soon
