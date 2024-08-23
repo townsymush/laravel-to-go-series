@@ -15,5 +15,10 @@ func New() chi.Router {
 	// add routes like Laravel
 	r.Get("/", controllers.HomeHandler)
 
+	r.Route("/pokemon", func(r chi.Router) {
+		r.Get("/", controllers.PokemonRoot)
+		r.Get("/{pokemonName}", controllers.PokemonGet)
+	})
+
 	return r
 }

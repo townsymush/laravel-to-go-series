@@ -9,7 +9,7 @@ import (
 // JSONResponse holds our json payload for marshalling
 type JSONResponse struct {
 	statusCode int
-	Message    string `json:"Message"`
+	Message    string `json:"message"`
 }
 
 // NewJSON is a constructor for a json Response
